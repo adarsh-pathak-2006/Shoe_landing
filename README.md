@@ -35,7 +35,3 @@ SoleStride is a high-performance, visually immersive e-commerce landing page for
 - Node.js (v18+)
 - npm / yarn / pnpm
 
-### Installation
-1. **Clone the repo:**
-   ```bash
-   git clone https://github.com/your-username/solestride.git
